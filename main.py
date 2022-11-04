@@ -101,8 +101,6 @@ def main() -> None:
 
 
 main()
-
-
 if __name__ == '__main__':
     run_screensaver()
     print('Приветствую тебя, искатель приключений!')
